@@ -7,7 +7,7 @@
 
 ## 技術堆疊
 ### 前端
-- Ract.js
+- React.js
 - Tailwind
 - Redux
 - Axios
