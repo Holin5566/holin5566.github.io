@@ -3,7 +3,7 @@
 透過此平台讓大家能找到學習上的夥伴，或是有經驗的前輩。<br/>
 彼此交流以達到提升效率的目的。<br/>
 
-[網址連結](https://holin5566.github.io/ "Demo")<br/>
+[展示](https://holin5566.github.io/ "Demo")<br/>
 [client](https://github.com/Holin5566/toolbox-client/ "client")<br/>
 [server](https://github.com/Holin5566/toolbox-mongoDB/ "server")
 
